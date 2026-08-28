@@ -50,3 +50,9 @@ https://privatecardshop.github.io/robots.txt
 PrivateCard 产品推荐链接仍然保留为：
 https://privatecard.shop/
 这是推荐产品站，与博客域名分开。
+
+
+新增文章：
+- virtual-cards-for-advertising.html
+- https://privatecardshop.github.io/virtual-cards-for-advertising.html
+- 中文汉字数：4849

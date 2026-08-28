@@ -1,0 +1,11 @@
+标题精简版
+
+全部页面标题：
+- index.html: PrivateCard虚拟卡博客
+- recommend-privatecard.html: PrivateCard虚拟卡推荐
+- privatecard-bins.html: PrivateCard卡段汇总
+- facebook-ads-bins.html: Facebook广告卡段指南
+- how-to-choose-bin.html: 虚拟信用卡BIN选择指南
+- privatecard-fees.html: PrivateCard费用说明
+- privatecard-use-cases.html: PrivateCard使用场景
+- virtual-cards-for-advertising.html: 虚拟卡广告投放指南
